@@ -2,11 +2,7 @@
 
 > One has no future if one couldn't teach themself<a href='#fn1' name='fn1b'><sup>[1]</sup></a>.
 
-<<<<<<< HEAD
-# 自学是门手艺没有啊
-=======
-# 自学是门手艺啊
->>>>>>> 95f2e40e5ba8219325377df84417bac24ba5987d
+# 自学是门手艺
 
 > 没有自学能力的人没有未来
 
